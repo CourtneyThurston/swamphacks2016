@@ -1,4 +1,4 @@
-# swamphacks2016
+# Note.js
 Note.JS is a cool web application & Chrome extension that makes reading articles easy for everyone!
 
 The Note.JS web application is designed for those with a lot to read, and not enough time to read it. The algorithms Note.js uses provide an easy way to convert large chunks of boring and long text into quick and easy to read bullet points.
