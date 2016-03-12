@@ -7,8 +7,11 @@ Through careful processing of each word, and the use of machine learning via the
 
 On those long nights of research, an easy-to-use extension to the Google Chrome web browser allows users to condense pieces of articles into slick statements that are easy to discern and categorize with a quick glance. The aforementioned API from DatumBox helps to lift that burden too by assessing the complexity of the processed text and assigning one of 16 topics to the bulleted content.
 
+# To run
+Simply install the Chrome extension, highlight text, press the embedded extension button, and enjoy!
+
 http://devpost.com/software/studynote-js
 
 https://github.com/CourtneyThurston/swamphacks2016
 
-Note.js was originally submitted at SwampHacks 2016 by Tim Christovich, Caeley Looney, Jon Rach, and Courtney Thurston.
+Note.js was originally submitted at SwampHacks 2016 by Tim Christovich, Caeley Looney, Jon Rach, Camille Ramseur, and Courtney Thurston.
