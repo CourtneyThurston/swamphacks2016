@@ -1,6 +1,8 @@
 # Note.js
 Note.JS is a cool web application & Chrome extension that makes reading articles easy for everyone!
 
+![in use](https://i.gyazo.com/09b785b2217d968ed2812a960ab79d1e.png)
+
 The Note.JS web application is designed for those with a lot to read, and not enough time to read it. The algorithms Note.js uses provide an easy way to convert large chunks of boring and long text into quick and easy to read bullet points.
 
 Through careful processing of each word, and the use of machine learning via the DatumBox API, Note.js is able to select just the right balance of content and brevity to deliver a highly portable PDF document right in your web browser. The DatumBox API is accessed through a Python-dependent backend, which is able to be leveraged by Amazon AWS cloud severs. A variety of formatting options are available to make your study or news-reading experience comfortable for any eyes.
@@ -11,8 +13,6 @@ On those long nights of research, an easy-to-use extension to the Google Chrome 
 Simply install the Chrome extension*, highlight text, press the embedded extension button, and enjoy!
 
 *Instructions on manually installing Chrome extensions (.crx): http://www.cnet.com/how-to/how-to-install-chrome-extensions-manually/
-
-![in use](https://i.gyazo.com/09b785b2217d968ed2812a960ab79d1e.png)
 
 http://devpost.com/software/studynote-js
 
